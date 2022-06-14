@@ -1,0 +1,14 @@
+ 
+             ---<Covid Analysis>---
+
+
+This is a diagnostic analysis which aims to answer whether or not covid wave is over
+for this purpose the dataset is downloaded from 
+Our World Data:https://ourworldindata.org/
+
+The wrangling of data is performed on MySQL workbench which involves steps like Data 
+importing formatting, Filling Blanks, Data Cleaning etc.
+
+The analysis and visualization is performed on Tableau Desktop Software Which 
+involves making multiple sheets to understand data and Finally build an
+interactive dashboard to showcase findings.  
